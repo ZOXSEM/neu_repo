@@ -1,1 +1,12 @@
-{"current_plan": [], "completed_tasks": []}
+{
+  "Setup 2D orthographic projection and basic player triangle-car": "done",
+  "Implement WASD movement logic with acceleration and friction": "done",
+  "Create a procedural road shader with repeating dashed lines": "done",
+  "Add AI-controlled enemy cars that follow a simple path": "pending",
+  "Implement collision detection between player and road boundaries": "pending",
+  "Add collectible \"Nitro\" boost pads (glowing green SDF circles)": "pending",
+  "Create \"Oil Spill\" obstacles that reduce player traction": "pending",
+  "Implement a simple UI overlay showing current speed and distance": "pending",
+  "Add procedural particle effects (sparks) when cars collide": "pending",
+  "Setup a screen-shake effect when the player hits an obstacle": "pending"
+}
