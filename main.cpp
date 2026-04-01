@@ -133,7 +133,7 @@ vec3 getStars(vec3 rayDir) {
     return starColor;
 }
 
-// Main raymarching function
+// Raymarched procedural night sky
 vec3 render(vec3 rayDir) {
     vec3 color = getSkyColor(rayDir);
     
@@ -216,7 +216,7 @@ public:
 
         glGenVertexArrays(1, &VAO);
         glGenBuffers(1, &VBO);
-        glGenBuffers(1, &EBO;
+        glGenBuffers(1, &EBO);
 
         glBindVertexArray(VAO);
 
