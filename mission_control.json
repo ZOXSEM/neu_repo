@@ -6,5 +6,5 @@
         "Implement procedural night sky with moving moon and twinkling stars using Raymarching",
         "Implement procedural night sky with moving moon and twinkling stars using Raymarching"
     ],
-    "next_goal": "Refactor the ray marching implementation to use a more efficient sphere tracing technique for rendering the night sky, enhancing performance while maintaining visual quality of the moon and stars."
+    "next_goal": "Optimize the star rendering by implementing a more efficient spatial hashing or octree-based approach to reduce the number of distance checks per frame, and enhance the moon's surface detail with a more realistic bump mapping technique using normal displacement."
 }
