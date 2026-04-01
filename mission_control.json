@@ -1,7 +1,0 @@
-{
-    "v": 1.8,
-    "history": [
-        "Implement procedural night sky with moving moon and twinkling stars using Raymarching"
-    ],
-    "next_goal": "Optimize the star generation algorithm by replacing the loop-based approach with a more efficient spatial hashing or grid-based system to improve performance at higher star counts."
-}
