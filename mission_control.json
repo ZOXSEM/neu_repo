@@ -1,9 +1,6 @@
 {
     "v": 1.8,
     "history": [
-        "Implement procedural night sky with moving moon and twinkling stars using Raymarching",
-        "Implement procedural night sky with moving moon and twinkling stars using Raymarching",
-        "Implement procedural night sky with moving moon and twinkling stars using Raymarching",
         "Implement procedural night sky with moving moon and twinkling stars using Raymarching"
     ],
     "next_goal": "Optimize the star rendering by implementing a more efficient spatial hashing or octree-based approach to reduce the number of distance checks per frame, and enhance the moon's surface detail with a more realistic bump mapping technique using normal displacement."
