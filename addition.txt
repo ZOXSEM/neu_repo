@@ -1,0 +1,10 @@
+- [ ] Setup 2D orthographic projection and basic player triangle-car.
+- [ ] Implement WASD movement logic with acceleration and friction.
+- [ ] Create a procedural road shader with repeating dashed lines.
+- [ ] Add AI-controlled enemy cars that follow a simple path.
+- [ ] Implement collision detection between player and road boundaries.
+- [ ] Add collectible "Nitro" boost pads (glowing green SDF circles).
+- [ ] Create "Oil Spill" obstacles that reduce player traction.
+- [ ] Implement a simple UI overlay showing current speed and distance.
+- [ ] Add procedural particle effects (sparks) when cars collide.
+- [ ] Setup a screen-shake effect when the player hits an obstacle.
