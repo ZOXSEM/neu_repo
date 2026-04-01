@@ -1,1 +1,6 @@
-{"tasks": [], "v": 1.8}
+{
+    "tasks": [
+        "Implement procedural night sky with moving moon and twinkling stars using Raymarching"
+    ],
+    "v": 1.8
+}
