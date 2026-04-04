@@ -1,24 +1,20 @@
 <h1 align="center">Author: ZOXSEM</h1>
-<h2 align="center">Autonomous Evolution Engine</h2>
+<h2 align="center">Autonomous AI Software Orchestrator</h2>
 
+NEU is an advanced Python-driven framework designed to orchestrate the complete lifecycle of self-evolving software. The system functions as a high-level architect that directs AI agents to implement, refactor, and evolve a low-level C++ and OpenGL codebase through automated version control.
 
-NEU is a self developing software ecosystem designed to operate through a continuous lifecycle of analysis and code generation. The system leverages Large Language Models to architect, implement, and refactor its own source code within a managed Git environment.
+### Autonomous Orchestration Logic
 
+The core of the project is a recursive Python engine that manages strategic development goals. By integrating the GitHub API and Hugging Face infrastructure, the system enables AI models to act as autonomous developers, transforming a static repository into a living, self-correcting software environment.
 
-### System Architecture
+#### High-Level Architecture and AI Delegation
+The framework utilizes LLM agents to handle tactical implementation, including complex C++ engineering and GLSL shader programming. This approach demonstrates a shift from manual coding to intelligent system orchestration, where human intent is translated into machine-executable evolution.
 
-#### Autonomous Lifecycle Management
-The core engine executes a cyclic feedback loop that monitors project state and delegates implementation tasks to AI agents. It utilizes the GitHub API and Hugging Face infrastructure to maintain a persistent state of evolution, transforming the repository into a dynamic developmental environment.
+#### GPU-Accelerated Visual Evolution
+The generated graphics suite leverages C++17 and Signed Distance Functions for procedural rendering. The system directs AI to construct mathematically driven environments, infinite road systems, and dynamic particle effects, achieving high-performance results without human intervention in the low-level source.
 
-#### High Performance Graphics Engineering
-The visual component is built on C++17 and OpenGL, utilizing Signed Distance Functions for procedural rendering. This approach allows for mathematically generated environments, infinite road systems, and dynamic particle effects without the need for external textures or assets.
-
-#### Intelligent Version Control
-Version control functions as a primary interface for machine to machine interaction. The system automatically manages instruction queues, task history, and project roadmaps, ensuring a traceable and verifiable path of architectural growth.
-
-#### Hybrid Technological Stack
-The framework combines the flexibility of Python for high level orchestration and API integration with the raw performance of C++ and GLSL for GPU accelerated visualizations. This integration enables the development of complex systems that are both intelligent and computationally efficient.
-
+#### Automated Developmental Infrastructure
+Version control serves as the primary communication layer between the Python orchestrator and AI-driven implementation. The system maintains a continuous feedback loop of status analysis, task queuing, and historical logging, ensuring a transparent and verifiable path of architectural growth.
 
 ### Operational Methodology
-The project follows a recursive development strategy where each iteration analyzes the current codebase to identify optimization targets and new features. By automating the transition from strategic planning to tactical execution, the system achieves a state of continuous improvement independent of manual intervention.
+The project implements a recursive strategy where the Python engine analyzes the existing codebase to identify optimization targets. By automating the transition from conceptual requirements to technical execution, the system achieves a state of continuous improvement, proving the power of AI-human collaborative architecture.
