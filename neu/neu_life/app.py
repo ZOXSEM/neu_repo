@@ -5,7 +5,7 @@ from huggingface_hub import InferenceClient
 def log(msg, status="ИНФО"):
     print(f"[{status}] {time.strftime('%H:%M:%S')} >> {msg}", flush=True)
 
-log("СИСТЕМА_ЗАПУЩЕНА: v24.0_ULTIMATE_OS")
+log("СИСТЕМА_ЗАПУЩЕНА")
 
 try:
     auth = Auth.Token(os.environ.get("GITHUB_TOKEN"))
