@@ -43,7 +43,6 @@ try:
 
         main_obj, current_code = get_valid_content("main.cpp", "// INITIAL_VOID")
 
-        # --- СЕКРЕТНЫЙ КОД ТЕРМИНАЦИИ ---
         if "TEST_NEU_END" in addition:
             log("ФИНАЛЬНАЯ_ПОЛИРОВКА", "FINAL")
             p = f"Polish the project. No new features. Fix bugs. Source: {current_code}"
